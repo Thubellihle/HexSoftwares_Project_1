@@ -23,7 +23,7 @@ To run this project locally:
 ![Bio](./Screenshot-Bio.png.png)
 
 ### 🔹 Skills Section
-![Skills Section](./Screenshot-Skills.png.png)
+![Skills Section](./Screenshot- Skills.png.png)
 
 ### 🔹 Contact Section
 ![Contact Section](./screenshot-contact.png.png)
