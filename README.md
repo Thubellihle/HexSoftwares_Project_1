@@ -20,13 +20,13 @@ To run this project locally:
 ## 📸 Screenshots
 
 ### 🔹 Home Page
-![Bio](./Screenshot-Bio.png)
+![Bio](./Screenshot-Bio.png.png)
 
 ### 🔹 Skills Section
-![Skills Section](./Screenshot-Skills.png)
+![Skills Section](./Screenshot-Skills.png.png)
 
 ### 🔹 Contact Section
-![Contact Section](./screenshot-contact.png)
+![Contact Section](./screenshot-contact.png.png)
 
 
 ---
