@@ -19,7 +19,15 @@ To run this project locally:
 
 ## 📸 Screenshots
 
-*(You can add screenshots of the website once it’s ready)*
+### 🔹 Home Page
+![Bio](./Screenshot-Bio.png)
+
+### 🔹 Skills Section
+![Skills Section](./Screenshot-Skills.png)
+
+### 🔹 Contact Section
+![Contact Section](./screenshot-contact.png)
+
 
 ---
 
